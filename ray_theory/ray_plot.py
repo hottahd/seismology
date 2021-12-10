@@ -77,5 +77,5 @@ ax21.text(0.85,0.09,r'$0.9$')
 ax21.text(0.95,0.09,r'$1.0$')
 
 fig2.tight_layout()
-fig2.savefig('')
+fig2.savefig('figs/ray_plot.pdf')
 plt.pause(0.1)
